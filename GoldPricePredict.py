@@ -36,3 +36,5 @@ plt.legend(['predicted_price', 'actual_price'])
 plt.ylabel('Gold ETF Price')
 plt.show()
 print(predicted_price.tail())
+
+print('Welcome to Git world!!!')
